@@ -11,7 +11,7 @@ Description: Augmented Reality (AR) app for cultural content. Galleries, Librari
 Demo image markers can be downloaded here: https://github.com/museotechniki/ARdemo
 
 Developed January 2015.
-by Panagiotis Kanellopoulos (panagiotiskan@gmail.com)
+by Panagiotis Kanellopoulos (digilab@museotechniki.com)
 Hacker-in-Residence
 Museotechniki Ltd.
 
